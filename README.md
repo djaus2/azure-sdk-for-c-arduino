@@ -2,6 +2,8 @@
 
 The Arduino library is built from the Azure Embedded SDK for C. For more details about it, please refer to the [official library website](https://github.com/azure/azure-sdk-for-c).
 
+> Nb: Have created a separate repository for the Arduino Rpi Pico that implements some sensors at [djaus2/Azure_IoT_Hub_Arduino_RPI_Pico_Telemetry](https://github.com/djaus2/Azure_IoT_Hub_Arduino_RPI_Pico_Telemetry).
+
 There are several other alternatives to get MCU-based devices connected to Azure. See [Other Azure IoT SDKs](https://learn.microsoft.com/azure/iot-develop/concepts-using-c-sdk-and-embedded-c-sdk) to learn more.
 
 This library package contains the following samples. Please refer to their documentation for setup and execution instructions:
